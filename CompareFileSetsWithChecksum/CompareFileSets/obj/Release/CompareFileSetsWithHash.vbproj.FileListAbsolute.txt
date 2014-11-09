@@ -1,0 +1,15 @@
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Release\CompareFileSetsWithHash.vbproj.GenerateResource.Cache
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.exe.config
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.exe.manifest
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.application
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.exe
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.pdb
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithHash.xml
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.Form1.resources
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.Resources.resources
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.exe.manifest
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.application
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.exe
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.xml
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\obj\Release\CompareFileSetsWithHash.pdb
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHAsh\CompareFileSets\bin\Release\CompareFileSetsWithChecksum.exe.config

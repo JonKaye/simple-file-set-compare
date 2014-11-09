@@ -1,0 +1,32 @@
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.xml
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.exe
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.xml
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.exe.manifest
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\bin\Debug\CompareFileSets.application
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.exe.manifest
+C:\Users\Jonathan\Documents\Visual Studio 2013\Projects\CompareFileSets\CompareFileSets\obj\Debug\CompareFileSets.application
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSets-x1\CompareFileSets\bin\Debug\CompareFileSets.exe.config
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSets-x1\CompareFileSets\obj\Debug\CompareFileSets.exe
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSets-x1\CompareFileSets\obj\Debug\CompareFileSets.xml
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSets-x1\CompareFileSets\obj\Debug\CompareFileSets.pdb
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.exe.config
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.exe
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.xml
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.pdb
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.Form1.resources
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.Resources.resources
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.vbproj.GenerateResource.Cache
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.exe.manifest
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.application
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.exe
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.pdb
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\bin\Debug\CompareFileSets.xml
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.exe.manifest
+E:\PHL1\Midgewater\Library\jkaye\Utilities\CompareFileSetsWithHash\CompareFileSets\obj\Debug\CompareFileSets.application

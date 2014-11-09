@@ -1,0 +1,6 @@
+' Generate Checksum as MD5 and SHA1 for folder of files. Create checksum in ResultFile.xml from files in
+' C:\ListAFolder\Example1, stripping out path prefix, C:\ListAFolder\Example
+fciv -add C:\ListAFolder\Example1 -bp C:\ListAFolder\Example1 -r -both -xml ResultFile.xml 
+
+' If you want to verify checksum from current folder with checksum created in ResultFile.xml
+fciv -v -both -bp C:\ListAFolder\Example1 -xml ResultFile.xml

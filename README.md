@@ -13,3 +13,10 @@ Now go to the other folder you want to compare results with.
 3. Choose that folder as List A, and optionally you can save that file list in a file (but it is not necessary).
 4. Choose the original file you made in step 2 as your List B.
 5. Press "Compare". The program will list any discrepancies (missing files from List A or B, and mismatched file sizes) in the output box.
+
+In the subfolder "CompareFileSetsWithChecksum", I added another .NET VB Windows Form program that does the file
+comparison but also factors in the checksums produced by FCIV -- using MD5 and SHA1. There is a README.md file in
+that subfolder explaining the details. That program outputs a CSV file that reports all the files and their
+discrepancies -- missing files from List A or B, mismatched files sizes, or MD5 and SHA1 checksums that don't match.
+
+Nov 2014, Jonathan Kaye, GitHub - JonKaye
